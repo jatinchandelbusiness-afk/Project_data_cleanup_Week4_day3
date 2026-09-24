@@ -1,0 +1,201 @@
+age,region,education ,employment,marital status,children ,household_size
+48,up,Associate,Self-employed,polyamorous,10,5
+50,up,Undergraduate,Employed,complicated,10,1
+43,north,Master,Intern,in a relationship,5,2
+44,northeast,Undergraduate,Full-time,divorced,4,8
+48,northeast,Certificate,Intern,engaged,9,5
+25,south,High School,Freelancer,single,1,10
+39,southwest,Certificate,Self-employed,separated,9,3
+50,southwest,Bachelor,Retired,engaged,6,6
+27,southeast,Associate,Unemployed,separated,7,1
+44,up,PhD,Part-time,engaged,4,2
+34,north,PhD,Student,divorced,4,1
+50,southeast,Doctorate,Student,widowed,10,9
+40,west,Associate,Contractor,separated,1,1
+42,down,Diploma,Contractor,in a relationship,5,3
+35,south,Certificate,Freelancer,separated,9,4
+44,east,PhD,Full-time,complicated,3,10
+26,west,Postgraduate,Full-time,engaged,10,3
+46,up,Master,Full-time,annulled,3,5
+35,east,PhD,Employed,widowed,5,9
+36,northeast,Master,Full-time,in a relationship,5,1
+22,northeast,Postgraduate,Employed,married,4,1
+38,southeast,Certificate,Unemployed,complicated,5,7
+27,southeast,Certificate,Full-time,widowed,7,8
+35,west,Postgraduate,Freelancer,widowed,6,3
+25,northwest,Master,Freelancer,engaged,0,8
+22,northwest,Bachelor,Student,polyamorous,1,8
+46,up,Postgraduate,Self-employed,widowed,2,7
+19,northeast,Postgraduate,Freelancer,separated,8,2
+44,southeast,PhD,Retired,widowed,10,2
+49,east,Master,Full-time,widowed,4,1
+28,down,PhD,Part-time,in a relationship,7,4
+28,northwest,High School,Full-time,polyamorous,7,5
+37,east,Undergraduate,Intern,separated,7,3
+50,northeast,Certificate,Full-time,annulled,4,6
+41,up,Master,Student,engaged,8,7
+33,northwest,Postgraduate,Full-time,single,8,2
+47,down,Diploma,Intern,in a relationship,2,2
+36,down,Diploma,Full-time,complicated,4,1
+48,north,Associate,Contractor,widowed,2,8
+32,southwest,Associate,Retired,annulled,3,9
+42,northeast,High School,Self-employed,complicated,7,4
+19,southeast,Associate,Full-time,engaged,0,5
+40,south,High School,Part-time,complicated,2,9
+30,west,Undergraduate,Self-employed,separated,5,1
+46,east,Bachelor,Employed,single,7,9
+33,south,High School,Unemployed,in a relationship,5,7
+35,northeast,Certificate,Contractor,widowed,3,3
+26,north,Bachelor,Freelancer,polyamorous,4,5
+38,southwest,Postgraduate,Student,polyamorous,9,9
+50,west,Master,Employed,married,10,2
+33,northwest,Diploma,Employed,annulled,1,2
+36,northeast,Undergraduate,Intern,in a relationship,7,6
+46,up,Certificate,Freelancer,widowed,1,3
+25,northwest,Certificate,Retired,engaged,8,3
+26,up,Associate,Contractor,in a relationship,2,5
+19,northwest,Doctorate,Freelancer,polyamorous,4,7
+22,up,Undergraduate,Unemployed,single,1,1
+28,down,Master,Employed,polyamorous,10,4
+22,down,Undergraduate,Intern,divorced,10,1
+35,up,Undergraduate,Part-time,widowed,10,6
+20,east,Doctorate,Freelancer,divorced,7,3
+46,east,Master,Contractor,widowed,0,3
+29,up,Bachelor,Intern,in a relationship,3,8
+37,northeast,Postgraduate,Full-time,divorced,8,5
+44,northeast,Postgraduate,Unemployed,complicated,4,4
+20,northwest,PhD,Intern,single,4,10
+38,east,Doctorate,Intern,complicated,2,8
+38,down,Diploma,Retired,married,5,9
+41,south,Postgraduate,Freelancer,married,0,8
+29,west,Doctorate,Intern,widowed,1,8
+24,south,Undergraduate,Intern,complicated,6,10
+41,south,Postgraduate,Freelancer,separated,6,4
+50,north,Bachelor,Unemployed,in a relationship,5,6
+35,northwest,Master,Contractor,widowed,10,7
+49,southwest,Master,Self-employed,annulled,9,6
+37,northeast,Master,Freelancer,engaged,4,3
+22,south,Bachelor,Retired,in a relationship,6,5
+38,down,Undergraduate,Freelancer,divorced,7,9
+35,north,Diploma,Intern,complicated,8,6
+28,northwest,PhD,Retired,complicated,10,10
+41,up,Bachelor,Unemployed,single,0,3
+39,northwest,High School,Retired,single,0,7
+21,southeast,Certificate,Self-employed,annulled,7,1
+23,south,Diploma,Full-time,separated,1,2
+38,east,Master,Part-time,engaged,0,2
+37,west,Postgraduate,Intern,married,9,3
+27,northwest,Certificate,Unemployed,annulled,1,7
+19,west,Undergraduate,Retired,separated,1,4
+20,southwest,Undergraduate,Part-time,single,1,1
+35,west,Doctorate,Retired,annulled,5,9
+20,down,High School,Intern,polyamorous,3,8
+29,north,Doctorate,Retired,complicated,9,6
+22,northwest,High School,Student,polyamorous,8,6
+21,west,Associate,Self-employed,married,2,10
+25,east,Bachelor,Student,separated,8,4
+30,north,High School,Employed,engaged,7,1
+38,east,Doctorate,Retired,polyamorous,2,3
+38,southwest,PhD,Self-employed,complicated,9,8
+47,northwest,Diploma,Freelancer,separated,1,10
+19,down,Master,Unemployed,married,1,6
+38,northwest,Undergraduate,Retired,annulled,8,4
+32,east,Postgraduate,Employed,divorced,6,6
+21,south,Master,Employed,divorced,9,3
+25,south,High School,Contractor,engaged,7,2
+22,west,Doctorate,Unemployed,engaged,1,1
+45,east,PhD,Freelancer,widowed,6,6
+38,up,Master,Student,separated,4,4
+44,east,Undergraduate,Full-time,complicated,10,9
+33,up,PhD,Self-employed,polyamorous,7,5
+43,northwest,Associate,Unemployed,engaged,8,8
+48,west,Associate,Contractor,divorced,1,5
+27,southwest,Bachelor,Student,in a relationship,3,2
+22,west,Diploma,Contractor,married,8,5
+47,up,Postgraduate,Unemployed,complicated,10,6
+18,down,Associate,Student,annulled,9,8
+49,east,Certificate,Retired,polyamorous,1,2
+31,southwest,Undergraduate,Student,complicated,6,6
+31,southeast,Bachelor,Employed,married,3,9
+44,down,High School,Contractor,engaged,10,4
+25,east,Bachelor,Contractor,divorced,1,4
+40,southwest,Associate,Unemployed,annulled,1,1
+42,down,Diploma,Self-employed,annulled,1,3
+45,up,Doctorate,Intern,married,4,2
+20,northwest,Certificate,Self-employed,divorced,1,1
+34,down,Master,Student,complicated,10,3
+32,northwest,Bachelor,Employed,married,6,6
+31,northeast,Postgraduate,Unemployed,widowed,1,4
+29,down,Diploma,Contractor,married,0,9
+23,north,High School,Self-employed,married,9,8
+28,northwest,Certificate,Part-time,in a relationship,9,6
+25,north,Undergraduate,Freelancer,married,8,10
+25,southeast,Master,Unemployed,annulled,6,5
+39,west,Undergraduate,Employed,in a relationship,7,8
+37,down,Undergraduate,Unemployed,divorced,10,5
+27,southwest,High School,Employed,widowed,5,3
+27,southeast,Certificate,Employed,engaged,1,5
+28,southwest,Doctorate,Part-time,engaged,6,1
+29,southeast,Doctorate,Full-time,divorced,1,7
+25,southeast,Certificate,Self-employed,widowed,7,4
+26,down,Certificate,Unemployed,complicated,3,1
+21,east,Master,Self-employed,single,4,5
+31,up,Master,Part-time,divorced,1,6
+31,down,Doctorate,Unemployed,married,7,6
+32,down,Master,Contractor,separated,8,10
+34,down,High School,Full-time,in a relationship,4,10
+26,west,Bachelor,Self-employed,widowed,1,5
+39,east,Doctorate,Unemployed,widowed,7,2
+32,west,High School,Retired,annulled,6,9
+49,south,Bachelor,Full-time,married,7,7
+29,east,Undergraduate,Unemployed,separated,9,7
+48,southwest,Master,Student,polyamorous,0,3
+40,up,Postgraduate,Part-time,single,7,7
+24,northwest,Diploma,Unemployed,complicated,7,2
+23,down,Diploma,Full-time,married,0,3
+42,north,Postgraduate,Unemployed,married,10,9
+24,up,Certificate,Student,widowed,5,3
+30,west,Associate,Freelancer,polyamorous,0,9
+39,northeast,Undergraduate,Retired,polyamorous,0,2
+38,southwest,Undergraduate,Part-time,married,7,5
+49,north,PhD,Student,separated,0,3
+24,east,High School,Employed,divorced,9,1
+43,north,Diploma,Employed,in a relationship,3,5
+31,north,PhD,Student,separated,1,1
+46,southeast,Master,Student,single,2,1
+34,west,High School,Employed,separated,0,5
+29,up,Undergraduate,Retired,single,0,2
+24,southeast,Master,Unemployed,in a relationship,5,9
+23,northeast,Master,Self-employed,engaged,4,2
+48,northeast,Associate,Full-time,in a relationship,5,1
+41,northwest,Postgraduate,Unemployed,annulled,9,7
+40,northwest,Doctorate,Intern,annulled,1,5
+45,southeast,Bachelor,Freelancer,divorced,9,8
+46,south,Bachelor,Unemployed,engaged,8,9
+20,northwest,PhD,Unemployed,single,1,10
+28,south,High School,Unemployed,divorced,8,2
+23,southeast,Bachelor,Full-time,engaged,0,10
+20,north,Doctorate,Contractor,in a relationship,3,1
+18,west,Master,Retired,married,9,2
+22,east,Master,Part-time,single,5,3
+43,up,Undergraduate,Contractor,complicated,6,7
+37,northwest,Doctorate,Freelancer,widowed,0,5
+29,north,Certificate,Self-employed,widowed,6,10
+36,northeast,High School,Intern,annulled,10,2
+40,down,Master,Intern,polyamorous,2,5
+29,northeast,Undergraduate,Intern,in a relationship,3,4
+43,up,Postgraduate,Unemployed,single,5,9
+23,up,Diploma,Freelancer,married,10,2
+48,up,PhD,Employed,engaged,8,2
+32,west,Undergraduate,Freelancer,annulled,6,6
+44,southwest,Master,Student,annulled,2,4
+35,north,Master,Self-employed,single,7,7
+37,down,Diploma,Intern,complicated,2,6
+19,west,Associate,Freelancer,polyamorous,10,9
+23,southwest,Master,Employed,annulled,1,8
+47,up,Diploma,Freelancer,annulled,4,10
+24,down,High School,Unemployed,single,9,7
+49,down,Diploma,Full-time,engaged,2,5
+44,west,Diploma,Contractor,complicated,8,3
+20,down,Master,Employed,single,9,5
+27,down,Diploma,Part-time,widowed,5,10
